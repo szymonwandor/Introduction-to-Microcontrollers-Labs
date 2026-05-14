@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Thu May 14 14:05:07 2026
+# Process ID: 11856
+# Current directory: C:/Users/Student/Documents/287036/project_2/project_2.runs/impl_1
+# Command line: vivado.exe -log MAIN.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source MAIN.tcl -notrace
+# Log file: C:/Users/Student/Documents/287036/project_2/project_2.runs/impl_1/MAIN.vdi
+# Journal file: C:/Users/Student/Documents/287036/project_2/project_2.runs/impl_1\vivado.jou
+# Running On        :LAB39-11
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :19045
+# Processor Detail  :AMD Ryzen 7 5700G with Radeon Graphics         
+# CPU Frequency     :3793 MHz
+# CPU Physical cores:8
+# CPU Logical cores :16
+# Host memory       :14920 MB
+# Swap memory       :2281 MB
+# Total Virtual     :17201 MB
+# Available Virtual :9906 MB
+#-----------------------------------------------------------
+source MAIN.tcl -notrace
